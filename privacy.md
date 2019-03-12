@@ -1,49 +1,67 @@
-# Privacy Contract
-CoinPrice ("CoinPrice", "we", or "us") is committed to protecting your privacy. We have created this Privacy Policy (the "Privacy Policy") to show our commitment to fair information acts and to the protection of your privacy while you use Alphabet Draw applications (the "App") and any services available through or in connection with the App (the "Subscription Services"). Your use of the App and of the Subscription Services is covered by this Privacy Policy and by the Terms of Use.
+## Privacy Policy
 
-### 1. THE PRIVACY, APP, AND SUBSCRIPTION SERVICES CONTRACT
-This Privacy Contract is applicable only to the App and to the Subscription Services, and it does not apply to any other applications or subscription services that you may access through the App, including but not limited to applications and subscription services accessed via advertisements or connections to third-party content, each of which may utilize data collection, storage, and /or practices and policies that differ considerably from this Privacy Contract. If you use our App or Subscription Services without registering, the only information that we shall collect shall be Non-Personal Information through the use of cookies or web beacons (See Section 2). If you choose to subscribe to our Subscription Service, we require you to submit certain information that will identify you, and which may include your first and last name, email address, cellular phone number, and/or account information for effecting charges (henceforth known collectively as "Personal Information"). You shall be responsible for assuring the accuracy of the Personal Information that you present to CoinPrice. Incorrect information will affect your use of the App and of the Subscription Services, as well as our ability to contact you using the contact methods described in this Privacy Contract.
+iCoin built the CoinPrice app as an Ad Supported app. This SERVICE is provided by iCoin at no cost and is intended for use as is.
 
-### 2. PERSONAL INFORMATION
-Even if you do not subscribe to the Alphabet Draw Subscription Service from CoinPrice, we shall collect information in addition to your Personal Information ("Non-Personal Information") about your use of our App and Subscription Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-#### A. Cookies
-We utilize cookies to personalize your experience with the App and the Subscription Services, as well as to store your login information so that you do not need to re-enter it each time you visit the App or access the Subscription Services. Cookies are small computer files that are transferred to your hard disc and which contain information such as your user name and the activities that you performed while using the App and Subscription Services. We do not connect the information stored in the cookies to any of your Personal Information. Some of our partners also use cookies to provide us with anonymous global data and information regarding our users. We do not have access to or control over these cookies, and our Privacy Contract does not cover the use of third-party cookies.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-#### B. Data Traffic
-We shall automatically track and collect the following categories of information when you visit our App or use our Subscription Service: (1) Internet Protocol ("IP") addresses; (2) Domain servers; and (3) Types of Computers and / or mobile devices used to access the App or the Subscription Services. We shall not connect Non-Personal Information received as data traffic to your Personal Information.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at CoinPrice unless otherwise defined in this Privacy Policy.
 
-### 3. PERSONAL INFORMATION
-A. Registration
-In order for you to use our Subscription Services plan, we shall ask that you provide specific Personal Information. Personal Information includes contact information, such as your first name and last name, your email address, cellular phone number, and, when applicable, account information for effecting charges. We shall use the personal information you provide to respond to your questions and to send you messages about the App, as well as for service maintenance and updates. You may opt out of providing any personal information. In this case, you may still access and use parts of the App and the Subscription Services.
+**Information Collection and Use**
 
-### 4. OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
-We may use your Personal Information to send you information about the App or the Subscription Services, and to contact you when necessary, including an email to verify your subscription. We may use your data traffic to personalize and adapt your experience with the App and the Subscription Services, and in our communications with you in order to exhibit content that we believe you may be interested in and which may be consistent with your preferences.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID. The information that I request will be retained on your device and is not collected by me in any way.
 
-We may share your personal information and data traffic with our partners who assist us through the development of essential services involved in the operations of the App and Subscription Services. Our partners shall be obligated to maintain the same security and confidentiality standards that we promise to you in this Privacy Contract. They shall use your personal information only to meet specific business obligations and to provide services involved in the App.
+The app does use third party services that may collect information used to identify you.
 
-In addition, we may transfer your Personal Information and Non-Personal Information to other companies as a result of a sale, merger, or acquisition of or by CoinPrice. In this case, we shall make all efforts possible to notify you before any Personal Information or Non-Personal Information is transferred or becomes subject to a different privacy contract. CoinPrice does not share, sell, rent, or negotiate with your Personal Information with third parties for promotional ends.
+Link to privacy policy of third party service providers used by the app
 
-We reserve the right to disclose your Personal Information if it is demanded by law and when we believe that disclosure is necessary to protect our rights and / or to satisfy a legal procedure, judicial order or a lawsuit.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [Facebook](https://www.facebook.com/about/privacy)
+*   [Fabric](https://fabric.io/privacy)
+*   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 
-### 5. LINKS TO OTHER APPLICATIONS
-The App may present advertisements and shall contain links to other applications with which CoinPrice is not affiliated ("Third-Party Apps"). CoinPrice will not share your personal information with Third-Party Apps. CoinPrice is not responsible for the privacy practices of Third-Party Apps. Some Third-Party Apps may possess styles and appearances that are similar to our App. We ask you to be aware that you may be in a different application, and that this Privacy Contract covers only our App. If you decide to utilize Third-Party Apps, we suggest that you read their privacy policies carefully.
+**Log Data**
 
-### 6. SECURITY
-The Personal Information that we collect about you is stored on a secure, password-protected server. Only authorized personnel have access to your Personal Information. We use cryptography technology that is standard in the industry when receiving and transferring Personal Information. However, despite our best efforts, no transmission over the Internet or cellular phone network, nor any other method of data storage, can be guaranteed to be safe 100% of the time.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-### 7. OPTIONS FOR ENDING COMMUNICATION
-If you no longer wish to receive communications from CoinPrice, you may change your preferences by following the instructions included in each email or message, or by contacting us at contact@CoinPrice.tv.
+**Cookies**
 
-### 8. DATA TRANSFER AND STORAGE
-The App is stored on servers in Singapore. Thus, if you are outside of Singapore, the Personal Information that you provide to CoinPrice shall be transferred to Singapore. Upon providing your Personal Information, you are agreeing both to the transfer of your Personal Information to Singapore and to the storage of your Personal Information in Singapore, as well as to the use of your Personal Information in accordance with the ends for which it was originally collected.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-### 9. CHANGES TO THIS PRIVACY CONTRACT
-We reserve the right to alter this Privacy Contract at any moment and at our sole discretion. In the event of any changes to this Privacy Contract, we shall publish an altered agreement in the App that will inform you of these changes and / or we shall send you an e-mail or text message using a Short Message Service (SMS) via cellular phone. This message will notify you of the nature of these changes and provide a link to the new Privacy Contract for your review. The use of the information we collect is always subject to the Privacy Contract that is in effect at the moment when this information is collected.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+**Service Providers**
 
+I may employ third-party companies and individuals due to the following reasons:
 
-Copyright © 2017 CoinPrice. All rights reserved.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-If you have any questions, please contact us at contact@CoinPrice.tv
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
